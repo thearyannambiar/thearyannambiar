@@ -4,7 +4,7 @@
 
 I build practical engineering systems that connect robotics, computer vision, and manufacturing quality.
 
-I’m a Purdue University Robotics Engineering Technology graduate with experience spanning industrial robot optimization at ABB, manufacturing research at IIT Bombay, technical instruction at Purdue, and AI-assisted inspection through Vizcor.
+I’m a Purdue University Robotics Engineering Technology graduate with experience optimizing industrial robots at ABB, conducting manufacturing research at IIT Bombay, teaching electronics at Purdue, and founding Vizcor, an early-stage industrial inspection venture.
 
 ## Engineering focus
 
@@ -22,11 +22,13 @@ I’m a Purdue University Robotics Engineering Technology graduate with experien
 - Diagnosed **50+ circuit and system-level issues** while supporting **100+ students** as a Purdue teaching assistant
 - Led the design of a Cummins-sponsored inspection system for **300+ threaded blind holes**, with a projected **55–60% reduction in manual inspection time**
 
-## Featured project: Vizcor
+## Founder & Technical Lead — Vizcor
 
-[Vizcor](https://vizcor.tech/) is a manufacturing-inspection prototype I’m building with Python, Streamlit, and machine-vision tooling.
+I founded [Vizcor](https://vizcor.tech/), an early-stage industrial inspection venture, and lead a small team building proprietary computer-vision tooling for manufacturing quality.
 
-The current system includes a functional internal-thread inspection workflow and a ROS 2–compatible architecture designed for future integration with industrial robots. Its roadmap extends to corrosion, crack, burr, and surface-anomaly inspection.
+We developed a working internal-thread inspection prototype using Python, Streamlit, and machine-vision tooling. I define product direction, translate manufacturing constraints into technical requirements, and designed a ROS 2–compatible architecture for potential future integration with industrial robots.
+
+The product source code, models, datasets, and internal architecture remain private.
 
 ## Technical toolkit
 
@@ -37,9 +39,9 @@ The current system includes a functional internal-thread inspection workflow and
 
 ## Currently
 
-- Turning my robotics and automation work into documented portfolio repositories
-- Developing Vizcor’s inspection and robotic-integration capabilities
+- Turning my robotics and automation work into documented public repositories
 - Exploring early-career roles in robotics, automation, machine vision, applications engineering, and intelligent manufacturing
+- Interested in teams where I can combine hands-on engineering, technical ownership, and product thinking
 - Open to relocation across the United States
 
 ## Connect
